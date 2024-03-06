@@ -1,7 +1,7 @@
 {
     "name": "Ultraviolet-Devel",
     "build": {
-      "dockerfile": "../docker/Dockerfile",
+      "dockerfile": "../Dockerfile",
       "target": "devel",
       "context": "../"
     },
