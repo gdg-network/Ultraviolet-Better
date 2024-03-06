@@ -24,6 +24,9 @@
     "wisp-server-node": "^1.0.1",
     "ws": "^8.16.0"
   },
+  "peerDependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^3.0.0"
+  },
   "devDependencies": {
     "eslint": "^8.36.0",
     "prettier": "^2.8.4"
