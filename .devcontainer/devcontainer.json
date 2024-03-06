@@ -7,6 +7,5 @@
     },
     "forwardPorts": [
       8080
-    ],
-  "workspaceFolder": "/app"
+    ]
   }
